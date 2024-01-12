@@ -284,4 +284,9 @@
    "devices": ["SM-A705FC8E1D574FAB11061"],
    "expiry": "01-01-2025 12:00 PM"
 },
+   "simpel156": {
+   "password": "$2y$12$s4LScs6I1wAqnCSFyd0IvOlxuVlkRsddEmlaZXSuLR/AY2x/2uEh.",
+   "devices": ["21121210GE57F082048662F32"],
+   "expiry": "01-01-2025 12:00 PM"
+},
 }
