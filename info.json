@@ -1,4 +1,24 @@
 {
+   "simpel58": {
+   "password": "$2y$12$k0P2rwHuXdHtb/RWQoMRzO52fNvUN/orL6oiVmv8K5EPsbNX336X2",
+   "devices": ["CPH1933AEEE35FF1CD312B6"],
+   "expiry": "01-01-2025 12:00 PM"
+},
+   "simpel59": {
+   "password": "$2y$12$Ixadr1fsAxYaxlDV9XxhWuFtFIKp.CmoWcK1ODkpk1hF2U0oLJDne",
+   "devices": ["SM-F936BC55EA8CBB888BA78"],
+   "expiry": "01-01-2025 12:00 PM"
+},
+   "simpel60": {
+   "password": "$2y$12$eTojOrMDjaLDOKlIr0w8CuvDsK08300a/eWdw7naaBD0qRDPaSiEG",
+   "devices": ["CPH2061D1B50D0FEEDEE686"],
+   "expiry": "01-01-2025 12:00 PM"
+},
+   "simpel61": {
+   "password": "$2y$12$iX5TOrQzuZWSaoQlMGHgZ.tV8tQWCRaBnLOfVolr4iAXkz448xU22",
+   "devices": ["CPH18037A755555"],
+   "expiry": "01-01-2025 12:00 PM"
+},
    "simpel62": {
    "password": "$2y$12$Sr9lsBot4xyhRKgmUoIAT.kU7KKUKCI94hRVY3bp13tROQo4suWE2",
    "devices": ["SM-A505F669555A00A19C424"],
