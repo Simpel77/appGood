@@ -349,6 +349,11 @@
    "devices": ["VIVO1820JVDQBA4P7H8T5HGU"],
    "expiry": "01-01-2025 12:00 PM"
 },
+   "simpel17": {
+   "password": "$2y$12$rDXB6SEyCHVTYR4PurZiGuulVwlocGWwNaDyyOLFJVQkIRzCv0GZK",
+   "devices": ["CPH201524C6E800760781FE"],
+   "expiry": "01-01-2025 12:00 PM"
+},
    "simpel91": {
    "password": "$2y$12$Gujnss6wcQNcH.2LUpOgJeX5NbtqkGNjC9ugZkBJdpbqzC/20p4Jy",
    "devices": ["2209116AGA134619AE339A3CE"],
@@ -427,6 +432,11 @@
    "simpel106": {
    "password": "$2y$12$ofg4yPqYSNXDY3rs0H/9POBdXEmH2dvuOwJOt7Tl8MEW57P9kfu7m",
    "devices": ["V212060168E714784AF36"],
+   "expiry": "01-01-2025 12:00 PM"
+},
+   "simpel16": {
+   "password": "$2y$12$g4RrRhNQDDARs6c5yecAGe0ayQeKDrMyv1I6f3piSE3j4ARWAJJmy",
+   "devices": ["SM-G610F3300FEB4F5728317"],
    "expiry": "01-01-2025 12:00 PM"
 },
    "simpel107": {
