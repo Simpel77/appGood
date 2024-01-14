@@ -4,9 +4,19 @@
    "devices": ["21121210GE57F082048662F32"],
    "expiry": "01-01-2025 12:00 PM"
 },
+   "simpel24": {
+   "password": "$2y$12$c0iqOeGnmfqvoArt/.x.NOrgZPRYimUuS7HKFssFCyY2//tL92.d2",
+   "devices": ["CPH2239DBDA3437AA680B6F"],
+   "expiry": "01-01-2025 12:00 PM"
+},
    "simpel30": {
    "password": "$2y$12$1tlSb.19TuNZqAA/4JbfEu18hq5Ku/5327d6dZI3HU.V.ydZnSBjK",
    "devices": ["V21316A63C2BCB522CD2C"],
+   "expiry": "01-01-2025 12:00 PM"
+},
+   "simpel23": {
+   "password": "$2y$12$/pgX5hwKd7qU0ZtAPxjtNO7V0X3saguuzzMcnz/INelxbbwQm7qha",
+   "devices": ["V2130F5B94F97241E3567"],
    "expiry": "01-01-2025 12:00 PM"
 },
    "simpel26": {
@@ -64,6 +74,11 @@
    "devices": ["CPH22170D4A565C21484E9C"],
    "expiry": "01-01-2025 12:00 PM"
 },
+   "simpel21": {
+   "password": "$2y$12$pxo/gt3sCiYRdwB5UO5uBedFNHaYjGEkMX1f7BMjPqTFm/oMIjYt2",
+   "devices": ["SM-A325F8A5FD83F91C87ADC"],
+   "expiry": "01-01-2025 12:00 PM"
+},
    "simpel43": {
    "password": "$2y$12$byQ9Swjz3X6oK56EXgb8ieV.IBglclqQwZ1V2UowfM3/GMLHCFvwC",
    "devices": ["V2207DCB08AEFE2C59308"],
@@ -72,6 +87,16 @@
    "simpel32": {
    "password": "$2y$12$1PsjvbzktVi2ABdgc5WCtO03S/q5290EXveTkmm5zW7Pl/KLprV1q",
    "devices": ["V2116DD97AEBA117DB7FE"],
+   "expiry": "01-01-2025 12:00 PM"
+},
+   "simpel22": {
+   "password": "$2y$12$xc6pBbhtg0OVCNwCfXoz4OXaInJOBjQizMpv2w7zG.KexYs81CSPq",
+   "devices": ["CPH2217429778DD059308C2"],
+   "expiry": "01-01-2025 12:00 PM"
+},
+   "simpel20": {
+   "password": "$2y$12$RHv57mLhj0CTkOcswIbL3.iG6DWiA3ntslytLUQE7MO.TJeAmR0gO",
+   "devices": ["VIVO1814YS8TGQBQYSZHGM69"],
    "expiry": "01-01-2025 12:00 PM"
 },
    "simpel25": {
