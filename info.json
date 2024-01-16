@@ -1,4 +1,9 @@
 {
+   "simpel168": {
+   "password": "$2y$12$75rg1WuSoSUzBmbjwA8DSuSQtTKJcQYoPCwAxQPdEVpZjj8STP2F2",
+   "devices": ["CPH20153F9E49277E6A489C"],
+   "expiry": "01-01-2025 12:00 PM"
+},
    "simpel167": {
    "password": "$2y$12$B/eN9TvAaY80Ln5JejmjPOz8P9Qo4EWC5BxXssulvYB//BFJPN3gC",
    "devices": ["CPH2015145B8E4D6BE5F44F"],
