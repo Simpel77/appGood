@@ -524,11 +524,6 @@
    "devices": ["VIVO19151BBFDA9BF2DF9F4A"],
    "expiry": "01-01-2025 12:00 PM"
 },
-   "simpel110": {
-   "password": "$2y$12$EMhhgLg7G0CZYI405fPOC.n9nsYpcMNBXNuFK.NCFJyLREvem1gTG",
-   "devices": ["CPH2461258FA3833AA68853"],
-   "expiry": "01-01-2025 12:00 PM"
-},
    "simpel06": {
    "password": "$2y$12$Bh8S78wdApdPKpVY4yYdxuzzKj3o/FfeZMGSYDiHwo9ehO2LirauW",
    "devices": ["SM-A336E1FF3674942E5AE6C"],
