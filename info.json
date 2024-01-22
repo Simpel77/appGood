@@ -1,4 +1,9 @@
 {
+   "simpel179": {
+   "password": "$2y$12$G2x2a8uyVhxrRVrq3fNnWuKNfEuzqUFj5uFkvMCVaTz4kVwtlRy/a",
+   "devices": ["SM-A105G8501400052926258"],
+   "expiry": "01-01-2025 12:00 PM"
+},
    "simpel178": {
    "password": "$2y$12$dHvl3ayfRKoc3wqR.mxXS.fzddxCXBnJq6Gc0FPiSX6EObPcHOgQq",
    "devices": ["CPH2113DB4BEA7DB6F6AD5C"],
