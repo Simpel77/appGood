@@ -1,4 +1,9 @@
 {
+   "sampeltes": {
+   "password": "$2y$12$OPd2.4uoztUBMTRWzC73sO0sqZHOfjzq56LKmVRQa/JOd/zxYUcDy",
+   "devices": ["21121210G0929390896F60627"],
+   "expiry": "01-01-2030 12:00 PM"
+},
    "simpel185": {
    "password": "$2y$12$jspQM.XAwCeOUauQahtaVOv/4j6gQhqqWsJuANk88k/LcXshuQCZK",
    "devices": ["CPH2365C49C3683197DC8D3"],
