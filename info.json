@@ -442,12 +442,12 @@
    "simpel67": {
    "password": "$2y$12$k8FVIepraxM/ghOdT1QSKOGdxMcgh3e28r0pOsLDWqvz3OT0u63tK",
    "devices": ["VIVO20071F671AABCA1E7AB9"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel68": {
    "password": "$2y$12$ibZyyfelSZWB8ERtzUSKTuyhhqiK72FmDaLSXGBr0QfENmGuoJ99a",
    "devices": ["2306EPN60G38EA79B398F65092"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel69": {
    "password": "$2y$12$NxDgidhYNthw5Gc4yzg6gOZAEJhEvbDaXuafkBX19fAWlxHu8oynW",
@@ -882,7 +882,7 @@
    "simpel148": {
    "password": "$2y$12$ycJGcgFr6.g8RBKDmFIxTeFy6FsRli9CkdF79Qhpij.HTeW2GZMhK",
    "devices": ["CPH1937F27AD17E01D18BB0"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel149": {
    "password": "$2y$12$OcZC0j/SXc89UqJN8bau4O3ZhenFl.fKH8NZT0dnEStjoMI8uJ4DS",
