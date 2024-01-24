@@ -512,7 +512,7 @@
    "simpel83": {
    "password": "$2y$12$r0BlEkOp6dC0ZRlG8qQcQuYqxVNg5kzZHuVWZqF9GBpMcn/RWGMjS",
    "devices": ["CPH22391586ACC61B65E31A"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel84": {
    "password": "$2y$12$BfHFj41RNjD3bkYpgmqgjuj4Ht5W8.SCwgn6DOrBdZIfWgowWdFmG",
