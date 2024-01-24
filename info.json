@@ -277,7 +277,7 @@
    "simpel14": {
    "password": "$2y$12$3O4KiIT69usYtdN9yNj3/OPl9XteV4Kd3ug3TqVseQlKH1DBaanou",
    "devices": ["V2108B86FE43A9E8EC678"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel27": {
    "password": "$2y$12$Wbj1R1rv58jc84vS0g8lWO5gfUxgi8HOUUD597EqaZjC5B79GAxbi",
