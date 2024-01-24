@@ -637,7 +637,7 @@
    "simpel105": {
    "password": "$2y$12$TierPyhvOQx293cRt9hHnOInvlK2IvKvg3HZsilMlmHPmFqOkHUam",
    "devices": ["CPH19338D9156B21B20950F"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel106": {
    "password": "$2y$12$ofg4yPqYSNXDY3rs0H/9POBdXEmH2dvuOwJOt7Tl8MEW57P9kfu7m",
