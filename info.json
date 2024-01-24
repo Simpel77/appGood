@@ -132,12 +132,12 @@
    "simpel170": {
    "password": "$2y$12$9D8dvh.hMSF6VmyY.OhTc.o0plnbov8kYoIMqgvdqMfjpqAggJLhi",
    "devices": ["VIVO1915A38F48C445CCE45E"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel169": {
    "password": "$2y$12$XxVdCKExgDMii0/aYebXM.lqSZLmCtio4LT7JbuGrawD.5fsAZXqK",
    "devices": ["SM-A127FFA2C6188E8F5B326"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel168": {
    "password": "$2y$12$75rg1WuSoSUzBmbjwA8DSuSQtTKJcQYoPCwAxQPdEVpZjj8STP2F2",
