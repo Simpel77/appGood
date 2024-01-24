@@ -332,7 +332,7 @@
    "simpel31": {
    "password": "$2y$12$aesLjhD2NchnLpWZ83phEOKFqy.h8XBj8GDDpArBOcQGRqRlWuiwK",
    "devices": ["M2006C3MGDFED30FBFEA44D9A"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel42": {
    "password": "$2y$12$Qzig8BgABQGZ0nEgOw4sUeAno8Elv15cFbCBzUqZHAlVnuiGLoU12",
