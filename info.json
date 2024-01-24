@@ -672,7 +672,7 @@
    "simpel07": {
    "password": "$2y$12$XMLtCFEp9hCE.prCRQByq.veHCR0YJ6d.vL8yzzwdh39oW4j8Zal2",
    "devices": ["RMX3235822E061D15F869DD"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel114": {
    "password": "$2y$12$1srZpzhZPzXwFVC1cDIwFOEgx/8sPP70DyG525Ctj3NixXiuLN0Oi",
