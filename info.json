@@ -912,7 +912,7 @@
   "simpel153": {
    "password": "$2y$12$fqC2yXvd7fsn.N7QRQIb1OAVH9PEtMB9siiplBeZob4ebiSCKKhxa",
    "devices": ["VIVO1902B6F35475A17584C6"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel39": {
    "password": "$2y$12$xMEK22h4y9VQyZHI9S3CmumQGVL9d4pSmD6ZpfN4oTvec81Fx6i1O",
@@ -927,7 +927,7 @@
    "simpel03": {
    "password": "$2y$12$jSlpjefl.hKqhRggEeg7FeGNSIR3OHmXabygfyXidc82ZvYo1bupu",
    "devices": ["V2043577B67EC7C1E750C"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel37": {
    "password": "$2y$12$RHr0.WcigE.dFsxDoYAp3e3rGr6Ey37TA80ADeD02HY.PCB5LPy.u",
