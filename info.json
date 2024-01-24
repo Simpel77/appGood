@@ -562,7 +562,7 @@
    "simpel94": {
    "password": "$2y$12$FB/tN4mkOATy6cbG9uzU8eLV7DBYpId7eqrEb9As2EGrdwj5idFCC",
    "devices": ["CPH2365C1234A58EAA2E524"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel95": {
    "password": "$2y$12$0jgzXah4mGqrw3RsD1XBXu5NfAF4yMKRYJ4uqFm1ysd0M9PvvvVmC",
