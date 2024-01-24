@@ -904,10 +904,10 @@
    "devices": ["21121210GE57F082048662F32"],
    "expiry": "01-01-2024 12:00 AM"
 },
-  "simpel151": {
+   "simpel151": {
    "password": "$2y$12$bY6wFd1N54nH6PgKs8wu2.PBzGY5B5nCRQKSUq5hPLvKZderLAiCq",
    "devices": ["CPH21852488A745D0F71ECB"],
-   "expiry": "01-01-203 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
   "simpel152": {
    "password": "$2y$12$AxVnhMl.bdXHudboA/xuBOJYQMOKDNH5E4rOx29TCfIEZr6FX0AMi",
