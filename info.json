@@ -287,7 +287,7 @@
    "simpel33": {
    "password": "$2y$12$RKYr.7U/2FG8DOmxH3MlquN8QcHiE.RAfdYHa9WiN/Bnv4v4GPK3i",
    "devices": ["V2116DC86E47A1E7AF833"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel40": {
    "password": "$2y$12$8sq41RKd/ZGWX3PXtR2KMO0c4oK55oi3BLhaSVh4lSqAwozotIH5O",
@@ -907,7 +907,7 @@
    "simpel38": {
    "password": "$2y$12$gEuJf5EggA5oa3zL/303/upvr98Pr8xW5pTKN3rsg7u6ctK1A5lry",
    "devices": ["V20262EC8472A8A6956A1"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel03": {
    "password": "$2y$12$jSlpjefl.hKqhRggEeg7FeGNSIR3OHmXabygfyXidc82ZvYo1bupu",
@@ -917,7 +917,7 @@
    "simpel37": {
    "password": "$2y$12$RHr0.WcigE.dFsxDoYAp3e3rGr6Ey37TA80ADeD02HY.PCB5LPy.u",
    "devices": ["V2043F5BC95C857E3C336"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel36": {
    "password": "$2y$12$iK/74HgOnvkOLqrpwa6fBeELH1OexrzUox./vbJwUIBKvHbNUCbne",
@@ -932,6 +932,6 @@
    "simpel34": {
    "password": "$2y$12$jYp20uIGbHKi3QnK3MhtkeOFK95I.RlQ7UueTY7TyJTIGteDDLnny",
    "devices": ["CPH2083B5B0A0FA43EB894B"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
 }
