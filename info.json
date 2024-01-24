@@ -859,10 +859,10 @@
    "devices": ["22021211RG5E42C8E8C00EF3C7"],
    "expiry": "01-01-2030 12:00 AM"
 },
-   "simpel145": {
-   "password": "$2y$12$P4IsaARVgs10oA8HLnQzWOs8KoAnRg4W9f3nxmKEEpWVBMXZe3Rx2",
-   "devices": ["V212021FC56D7CEB8D0E3"],
-   "expiry": "01-01-2030 12:00 AM"
+  "simpel145": {
+   "password": "$2y$12$j.9kVjaffzXKPK5y2C7CfeWZ.b76Zzuk8m.spTBJhPCilGRLBqvja",
+   "devices": ["CPH226900F85947A88205CF"],
+   "expiry": "01-01-2030 12:00 PM"
 },
    "simpel146": {
    "password": "$2y$12$sLQAEMlAVThItZ.qu4MFvuW1ezhnOaoBNwrmJnY89xBGbmjpDYrwa",
