@@ -757,7 +757,7 @@
    "simpel125": {
    "password": "$2y$12$Sr8ep.8Y2mWpYnBy.WvvsOgtOV29CuOt7kyLCGfFzEQGC1kM0Pnwu",
    "devices": ["CPH24733575A6382C19961F"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel126": {
    "password": "$2y$12$IjhzPisA4tVLgWBSAZH3h.QQZ5VOdc12pWiIyLWGKNluAEDioueCq",
