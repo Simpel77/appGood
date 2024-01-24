@@ -895,8 +895,8 @@
    "expiry": "01-01-2030 12:00 AM"
 },
    "simpel150": {
-   "password": "$2y$12$TxNbSMMO/qmP0DyB1/2HZeUIQUUPsehAj5aLTZzqaghoboi0oBTLy",
-   "devices": ["SM-M2010J19SGC1CF11233C0C26A6"],
+   "password": "$2y$12$BYD6gdZOQMnFDtKABJNiI.jTKQtlXV/u/WtmA4gLfDPG42/sMxEYK",
+   "devices": ["M2010J19SGC1CF11233C0C26A6"],
    "expiry": "01-01-2030 12:00 PM"
 },
    "simpel151": {
