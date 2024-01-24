@@ -497,17 +497,17 @@
    "simpel78": {
    "password": "$2y$12$FN6rIimIqSNq9cWa1YCDRuaImBqULZn6ToRqdvkQUJbPRY9GpDQum",
    "devices": ["REDMI5PLUS298ABD199805"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel79": {
    "password": "$2y$12$6k8nmJ6c.Ax5oPZxHjtSue8fYapzOMZCMwYv7ESzhqs3.743AZ3GW",
    "devices": ["SM-A546E2BEFD94B61D13EFB"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel80": {
    "password": "$2y$12$0J4phrlf5SWIUEhlYWqk4ON6lXOBgFTeFnlDzIVPrTJpDfMndkcqq",
    "devices": ["RMX371043ADC04CB88D30BC"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel81": {
    "password": "$2y$12$HTqQvvT8q68V6gZPg1seNeSuAFl39YeN4sfN.NUK5ulHl/yOUGTR6",
@@ -747,7 +747,7 @@
    "simpel123": {
    "password": "$2y$12$fiQ3L.4AS12yGmj0X4LlcO41kAWCJBs62FWMYcNBrbAe3hTmc3Z7K",
    "devices": ["VIVO1938686E9D14ACA5600F"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel124": {
    "password": "$2y$12$lFwcBZfTy3o7TOkp1xnXoOEAbys2I2W0ZEbeLSoeO.b1ex.Ezo6RO",
@@ -767,7 +767,7 @@
    "simpel127": {
    "password": "$2y$12$JNQfpjLMDEJXgTf3h2dgYOBFRJoEMTAdibbRTy.qDXaVWyM0rh38y",
    "devices": ["SM-A546E215B8ECB289DB65D"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel128": {
    "password": "$2y$12$imrrl1vDQ.JGpmnL.F.3Deiw0KnVJ7gCQ12F0HZVS3mhebTugUapC",
@@ -822,7 +822,7 @@
    "simpel138": {
    "password": "$2y$12$tmCT8eVmNi.e/SAYwpnJSu5HxZjKCDMHAnnaEFYWFBcsv/SEvv08m",
    "devices": ["CPH1911B4D5F7CE76772DC6"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel139": {
    "password": "$2y$12$kjitCffrpZy2EysARop/rOr2ZQMtTqLLZ6f5/NFSBTBtwOKhoOniS",
