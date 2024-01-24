@@ -407,7 +407,7 @@
    "simpel64": {
    "password": "$2y$12$QIwty7t5GhcpRUHCOXRbZetDCo6poCGkh8aGzwJYJyWuDNTw/dpBK",
    "devices": ["SM-A515FA9227DD63C2441F3"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel65": {
    "password": "$2y$12$U.XX4szLG7phVKP8tBG3c.lyZAwxsHMYXDlHxTuqKrvEbDo9z1iZu",
