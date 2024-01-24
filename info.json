@@ -1,4 +1,12 @@
 {
- 
+   "simpel54": {
+   "password": "$2y$12$rADc8NFeK3HezFx39QKuZeAikPW.IJAB8N/2Z0LrMUSaQG1vBinDq",
+   "devices": ["RMX33632DEAAD908D219B4B"],
+   "expiry": "24-01-2030 12:00 AM"
+},
+   "simpel56": {
+   "password": "$2y$12$hIVBhqm9VsyXDJdjTe3eQej4XEmO/XjuMwffQWgfq.jyTaszmwCh.",
+   "devices": ["CPH223958F2A5C0D1D7D595"],
+   "expiry": "24-01-2030 12:00 AM"
 },
 }
