@@ -350,9 +350,9 @@
    "expiry": "01-01-2024 12:00 AM"
 },
    "simpel53": {
-   "password": "$2y$12$EemTtjxPmUnp0giMUpQdROdK3/bpPbkkpaYYv8TTMipjSBounSuGC",
-   "devices": ["SM-A115F97371FFBA5F59F45"],
-   "expiry": "01-01-2030 12:00 AM"
+   "password": "$2y$12$B02YKg3yPaZZBX..Q0Ha4ueCPP.PHL0sHVotbcWKhfgFzxC1t2zWC",
+   "devices": ["CPH238793F02685DACEA3FD"],
+   "expiry": "01-01-2030 12:00 PM"
 },
    "simpel54": {
    "password": "$2y$12$rADc8NFeK3HezFx39QKuZeAikPW.IJAB8N/2Z0LrMUSaQG1vBinDq",
