@@ -447,7 +447,7 @@
    "simpel72": {
    "password": "$2y$12$mBaM0P52jce1mtXpMarIHOfktvQvDmQhrJakCOszjNRyfkiipauJ.",
    "devices": ["CPH19378494F7E200987D3A"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel73": {
    "password": "$2y$12$MGiwkVMgUCq40MMu6c.tgOGcINmg8fLnr2/9A.jt2WkMNMK2Xg/OC",
