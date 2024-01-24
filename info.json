@@ -232,7 +232,7 @@
    "simpel23": {
    "password": "$2y$12$/pgX5hwKd7qU0ZtAPxjtNO7V0X3saguuzzMcnz/INelxbbwQm7qha",
    "devices": ["V2130F5B94F97241E3567"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel26": {
    "password": "$2y$12$ngjF1LJ5pH4fznOaGYWgjOFDNwXwJwPTb54OBUtJh0AOhBNQg/YZe",
