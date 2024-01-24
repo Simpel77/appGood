@@ -262,7 +262,7 @@
    "simpel15": {
    "password": "$2y$12$KP7SrQPH3E9AfFZefXUiEO8CWVT9qrhOY33.B9jfhBDv7IJa9A/ly",
    "devices": ["CPH2043EC2B26E7E2E72D4F"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel29": {
    "password": "$2y$12$fE6S87FjDxuraYWHYWZkt.o.PA1NvJ.JGngF3YSHNfpYD0/BQ0sMy",
