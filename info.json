@@ -562,7 +562,7 @@
    "simpel92": {
    "password": "$2y$12$BoWoQyI3giQAeMQcIQEf7eKHe5N/AHHgR3hPsiykDfnNtOADjjO/m",
    "devices": ["CPH2127757B5AD9E3220148"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel93": {
    "password": "$2y$12$UURclylc8X4IDyVTS8yDkOjuN22QSz2jvO0uEy4uOziMQ1XjsZWd6",
