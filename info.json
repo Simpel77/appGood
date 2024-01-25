@@ -1,4 +1,9 @@
 {
+   "simpel192": {
+   "password": "$2y$12$dHfziOI23PPa7kc6zJhaxu8OZkylFHDt4cYxo9iJJg6n3kKTVB7fm",
+   "devices": ["SM-A145F30671F09673FD156"],
+   "expiry": "01-01-2030 12:00 PM"
+},
    "simpelpol": {
    "password": "$2y$12$ezVPWLHDSSBGZx6x72kM4e2ZwKunDHpA4GpNWR/4Axc66HFLU1wpu",
    "devices": ["21121210GE57F082048662F32"],
