@@ -664,11 +664,6 @@
    "devices": ["RMX2195D19615A43846B8AF"],
    "expiry": "01-01-2030 12:00 AM"
 },
-   "simpel101": {
-   "password": "$2y$12$Sj4R5ASUVuqK.3X085afAe7qGMXST1wfTHdpDEHto9UNdchm5zWWi",
-   "devices": ["SM-M105GB8F69393A49867E1"],
-   "expiry": "01-01-2024 12:00 AM"
-},
    "simpel102": {
    "password": "$2y$12$dXg6m72wWx9jo8Elqtb9bedhRRaBoumCgO7UacVp6N3j/tt2Bq/Vi",
    "devices": ["VIVO1816CIBMB6LJZP95WKD6"],
