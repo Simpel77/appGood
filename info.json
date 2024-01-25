@@ -9,6 +9,16 @@
    "devices": ["SM-A125F9EB88E3911BD92D8"],
    "expiry": "01-01-2030 12:00 PM"
 },
+   "simpel145": {
+   "password": "$2y$12$/H6e/YauaPMqz2hTGveHjeeNpj79iWd2zspL5xkRCnUfT.RaP/AZO",
+   "devices": ["SM-A507FN702C686934ADFB90"],
+   "expiry": "01-01-2030 12:00 PM"
+},
+   "simpel42": {
+   "password": "$2y$12$dtTIrrUEYwM0nw77A4i1Uutq4zmDvNICz3voXai.XMQLx7lMLDMQK",
+   "devices": ["CPH226900F85947A88205CF"],
+   "expiry": "01-01-2030 12:00 PM"
+},
    "simpel157": {
    "password": "$2y$12$pxzieDGWJ4YzifzfUyXEBu2Jc8flCX6P5PZ4GC3DW69sm3gQDLIHq",
    "devices": ["M2004J19CF5660DC6E3675762"],
