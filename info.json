@@ -369,11 +369,6 @@
    "devices": ["M2006C3MGDFED30FBFEA44D9A"],
    "expiry": "01-01-2030 12:00 AM"
 },
-   "simpel42": {
-   "password": "$2y$12$Qzig8BgABQGZ0nEgOw4sUeAno8Elv15cFbCBzUqZHAlVnuiGLoU12",
-   "devices": ["SM-A507FN702C686934ADFB90"],
-   "expiry": "01-01-2030 12:00 PM"
-},
    "simpel21": {
    "password": "$2y$12$pxo/gt3sCiYRdwB5UO5uBedFNHaYjGEkMX1f7BMjPqTFm/oMIjYt2",
    "devices": ["SM-A325F8A5FD83F91C87ADC"],
