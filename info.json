@@ -4,6 +4,11 @@
    "devices": ["V2157E857DD997455EC68"],
    "expiry": "01-01-2030 12:00 PM"
 },
+   "simpel101": {
+   "password": "$2y$12$UZzroV3Xd/iCKe/RbimShOtLaWRb6KCpzB9o3srWclUzC4.xhStuK",
+   "devices": ["INFINIXX6515FB5852AF133C057B"],
+   "expiry": "01-01-2030 12:00 PM"
+},
    "simpel31": {
    "password": "$2y$12$TcOBiW4ZQ/ddtXKXdgGaJu2SeRJU.7brC5nPhUCgfjHPC2uvQSTmO",
    "devices": ["M2006C3MGDFED30FBFEA44D9A"],
