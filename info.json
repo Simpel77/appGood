@@ -4,6 +4,11 @@
    "devices": ["SM-A125F9EB88E3911BD92D8"],
    "expiry": "01-01-2030 12:00 PM"
 },
+   "simpel164": {
+   "password": "$2y$12$XIa5z4ls97UZ0K07DeA7geYJfs1Kmazknb7wXFyEoDqDa1nTO5gAW",
+   "devices": ["SM-A536E78334BD2F1D09F7C"],
+   "expiry": "01-01-2030 12:00 PM"
+},
    "simpel192": {
    "password": "$2y$12$dHfziOI23PPa7kc6zJhaxu8OZkylFHDt4cYxo9iJJg6n3kKTVB7fm",
    "devices": ["SM-A145F30671F09673FD156"],
