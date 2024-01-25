@@ -882,7 +882,7 @@
    "simpel144": {
    "password": "$2y$12$cE0I7VNtUqAQ.xGLcAhwLeiOcZK8atku8QQxHbcwtn2Hcl3NxY/su",
    "devices": ["SM-A135FF863BE4563C92F3D"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel02": {
    "password": "$2y$12$C9RIfRJN7IEIfyZdwBbyU.aNUcQ/4ZjlyUFbdFUBqeW1Rr4ROzkb.",
