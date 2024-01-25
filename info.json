@@ -1,4 +1,9 @@
 {
+   "simpel195": {
+   "password": "$2y$12$ADWPJPuvMCREIdfEmDoXl.gLs0zJd26ej502ba.Aqi6lKyWYcDF0O",
+   "devices": ["SM-A346E3DF87372DA2C2181"],
+   "expiry": "01-01-2030 12:00 PM"
+},
    "simpel194": {
    "password": "$2y$12$VDL/0AnTdfClsndOofc2vehLr1BKRLuPNkO0xEXffoUaLGoJh/9Uy",
    "devices": ["V2157E857DD997455EC68"],
