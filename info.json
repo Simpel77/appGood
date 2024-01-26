@@ -724,11 +724,6 @@
    "devices": ["CPH19338D9156B21B20950F"],
    "expiry": "01-01-2030 12:00 AM"
 },
-   "simpel16": {
-   "password": "$2y$12$g4RrRhNQDDARs6c5yecAGe0ayQeKDrMyv1I6f3piSE3j4ARWAJJmy",
-   "devices": ["SM-G610F3300FEB4F5728317"],
-   "expiry": "01-01-2024 12:00 AM"
-},
    "simpel107": {
    "password": "$2y$12$1rY5NgTe/E4NhC9YzU3rPO/h0tOvBSSewtEOZMej9o2KBut98N5W2",
    "devices": ["RMX3630F68C9127B633F1E6"],
