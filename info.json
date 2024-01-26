@@ -1,4 +1,29 @@
 {
+   "simpel206": {
+   "password": "$2y$12$7kPs.dcltnB8tB9yljpCP.V/BmwS23GBFZEzQiCfMUSQJGRwKynDi",
+   "devices": ["VIVO1920A3F39E992C748CDE"],
+   "expiry": "01-01-2030 12:00 PM"
+},
+   "simpel205": {
+   "password": "$2y$12$pZ.bvIh1uDFKr/26Vj95zuISJlzWQn34uf6JQlX7Evbm/eLuY1FU6",
+   "devices": ["CPH22694B0D640986F24C39"],
+   "expiry": "01-01-2030 12:00 PM"
+},
+   "simpel204": {
+   "password": "$2y$12$LiEZJxE1ezzQJ9Sx9B/jZ.Y50Cza96G.TAfWow/AmUWhUTHO7fWUa",
+   "devices": ["REDMINOTE81B971F3A1A1C9ACE"],
+   "expiry": "01-01-2030 12:00 PM"
+},
+   "simpel203": {
+   "password": "$2y$12$fMq6DlTyemNJSsEtgr5Axuw17CXYHQRULRRZIZ2lVbvD0vFlaiFsC",
+   "devices": ["V213153B9739F3DB516B0"],
+   "expiry": "01-01-2030 12:00 PM"
+},
+   "simpel202": {
+   "password": "$2y$12$JTDHu9yCvEaHBs6CjrGEjOEi2RwryFGf8OjKXGrwYWIfwUp/mwLH.",
+   "devices": ["CPH2059978A94907979CC93"],
+   "expiry": "01-01-2030 12:00 PM"
+},
    "simpel201": {
    "password": "$2y$12$meBnVZm0tVzIwApIq8dGfeRbeBl6Qm.Um/xTbfMGtwGojt.dji16q",
    "devices": ["CPH214591F8220BB78908E5"],
