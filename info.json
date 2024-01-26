@@ -4,6 +4,11 @@
    "devices": ["CPH214591F8220BB78908E5"],
    "expiry": "01-01-2030 12:00 PM"
 },
+   "simpel16": {
+   "password": "$2y$12$RoQAb8Hs9HfeYMtUenWh8.YiikYCijZqcm1esg1ut6V9eGEtSJkl6",
+   "devices": ["CPH2209DC04486C9C7A6256"],
+   "expiry": "01-01-2030 12:00 PM"
+},
    "simpel200": {
    "password": "$2y$12$EmAbdbEYhaRgn7wZWQgXBOa1KCoHNDzqkBrfqJT31VBaVz/d068lW",
    "devices": ["CPH2461258FA3833AA68853"],
