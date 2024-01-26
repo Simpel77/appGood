@@ -232,7 +232,7 @@
    "simpel09": {
    "password": "$2y$12$VVactU6hhiuzUVsWho3AkeStLgSGfCw2OBsEr8dkbiPQInNfMnO9m",
    "devices": ["23108RN04YB152B7E739AA034D"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 AM"
 },
    "simpel11": {
    "password": "$2y$12$YH7YBN3C6luMbMc2XUQU7.iRiD7zeDHs/gR.2iz4YGhqRhxNMyYou",
