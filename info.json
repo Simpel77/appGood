@@ -1,4 +1,9 @@
 {
+   "simpel211": {
+   "password": "$2y$12$L7l.kucKmTnxthc4rCuAi.nuoePbedk4YYBlpqF6mJk/CH6PDFU/2",
+   "devices": ["REDMINOTE77E77938FD42AC6FB"],
+   "expiry": "01-01-2030 12:00 PM"
+},
    "simpel210": {
    "password": "$2y$12$iZ01lJmpH/G/LDMQpBXIS.61rS5ZGZjZhgmFNk8C0NrOx6F2/k29K",
    "devices": ["SM-A750GN508B5C1FADD2CD72"],
