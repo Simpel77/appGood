@@ -1,4 +1,9 @@
 {
+   "emulator": {
+   "password": "$2y$12$GTZ7JGXWmOTzigkTK.DLN.KeOdPXcquyJZ.ZdND8Q/CpZsAKZuaUK",
+   "devices": ["SM-A536U40306EABD597AB83"],
+   "expiry": "01-01-2030 12:00 PM"
+},
    "simpel213": {
    "password": "$2y$12$uICKWq/rb/eMbH663536.ehWREsl/P5oUY9P55DJmSanSUKyOXXuK",
    "devices": ["CPH212796A9682D9248735C"],
