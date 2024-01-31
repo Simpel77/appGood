@@ -1,4 +1,9 @@
 {
+   "simpel215": {
+   "password": "$2y$12$MEeo3/ub3H1O1BcSqYNRKOjK1wphhVNCEJAk.hYw082zZOGxu9HMS",
+   "devices": ["RMX3151B915964360491603"],
+   "expiry": "01-01-2030 12:00 PM"
+},
    "simpel214": {
    "password": "$2y$12$vvF34WGzjH0QDO/US.gSMezkZFvVdfIHt/fTF49jInrm4BEGib2tC",
    "devices": ["CPH1931ECDBECAE2C17270F"],
