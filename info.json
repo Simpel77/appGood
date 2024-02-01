@@ -429,11 +429,6 @@
    "devices": ["CPH2269B18AB152D375ED75"],
    "expiry": "01-01-2030 12:00 AM"
 },
-   "simpel156": {
-   "password": "$2y$12$/bhI/RFC1E.vmf.gzCTvTuBqO/ou/DywII2GQAWHmrZAb1uhWyQvq",
-   "devices": ["21121210GE57F082048662F32"],
-   "expiry": "01-01-2024 12:00 AM"
-},
    "simpel19": {
    "password": "$2y$12$1a.xz2uY/t/dgYkWWcWUFuEvFH34rdVV3m8gXylodivZMk/qpkPKa",
    "devices": ["SM-A042F77D0560C4A78B538"],
