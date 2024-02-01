@@ -19,16 +19,6 @@
    "devices": ["CPH247359F0ECADE8E3D367"],
    "expiry": "01-01-2030 12:00 PM"
 },
-   "simpel217": {
-   "password": "$2y$12$HLpttRr9G7QSAV3wk49mt.7KgHNIjdcFQQmIz/rffdm5hIGfChoba",
-   "devices": ["220233L2GF16E02238C6552B2"],
-   "expiry": "01-01-2030 12:00 PM"
-},
-   "simpel216": {
-   "password": "$2y$12$LCc729UmfEAF7AmGyj345.yUFE5yA7NZz0H1GJmdNHE.7EqeSBgye",
-   "devices": ["CPH2375AA8461556227CA77"],
-   "expiry": "01-01-2030 12:00 PM"
-},
    "simpel215": {
    "password": "$2y$12$MEeo3/ub3H1O1BcSqYNRKOjK1wphhVNCEJAk.hYw082zZOGxu9HMS",
    "devices": ["RMX3151B915964360491603"],
