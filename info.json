@@ -1,4 +1,9 @@
 {
+   "simpel222": {
+   "password": "$2y$12$.QVVc7sRRl..p7ORLjmR5.PGoISWIDvq29P0Me5K/0BSF/e.Dy31O",
+   "devices": ["CPH21852777CECB327F7A78"],
+   "expiry": "01-01-2030 12:00 PM"
+},
    "simpel57": {
    "password": "$2y$12$xq7UFwDsqV.WSRwJdjSsce1UdAZGFBYBBgS0R9rqe4RgSnPsOLA5y",
    "devices": ["M2010J19SGD3E218F79C3723C7"],
