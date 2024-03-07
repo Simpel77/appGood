@@ -470,9 +470,9 @@
    "expiry": "01-01-2030 12:00 AM"
 },
    "simpel24": {
-   "password": "$2y$12$c0iqOeGnmfqvoArt/.x.NOrgZPRYimUuS7HKFssFCyY2//tL92.d2",
+   "password": "$2y$12$cz4HdhLmIBFWDeXIhDrk/eup9zBHpj5U0ANbDDHbK4BaVxYcKJYiG",
    "devices": ["CPH2239DBDA3437AA680B6F"],
-   "expiry": "01-01-2024 12:00 AM"
+   "expiry": "01-01-2030 12:00 PM"
 },
    "simpel18": {
    "password": "$2y$12$o34.tdz.0EfNqeV7UgwSp.RAB3BkK8VkTuHSD4QvGF9ifYn0wcl/e",
