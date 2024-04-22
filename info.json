@@ -539,11 +539,6 @@
    "devices": ["V2116DC86E47A1E7AF833"],
    "expiry": "01-01-2030 12:00 AM"
 },
-   "simpel40": {
-   "password": "$2y$12$8sq41RKd/ZGWX3PXtR2KMO0c4oK55oi3BLhaSVh4lSqAwozotIH5O",
-   "devices": ["SM-J510FN56CFECC3"],
-   "expiry": "01-01-2024 12:00 AM"
-},
    "simpel41": {
    "password": "$2y$12$isC1ni6YvVTJGX2hA22zQ.76V9uKY8fbTdDHZpUyn3QrigKtaAvry",
    "devices": ["23049PCD8G0B7EC05B07C29159"],
